@@ -4,9 +4,7 @@
  &emsp;`FastAPI Celery alembic` &emsp;&emsp;&emsp;&nbsp;&nbsp;`STL` <br>
 ┣[ **TypeScript** ]&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣[ **C#** ] <br>
 ┣[ **React Js** ]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;`WPF WinForms` <br>
- &emsp;`Vite`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;┗[ **Figma** ] <br>
-┣[ **HTML/SCSS** ] <br>
- &emsp;`TailwindCSS pug`<br>
+ &emsp;`Vite SCSS`&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;┗[ **Figma** ] <br>
 ┣[ **SQL** ] <br>
  &emsp;`PostgreSQL SQLAlchemy`<br>
 ┣[ **Redis** ] <br>
