@@ -1,17 +1,26 @@
 ![картинка сломалась =(](https://i.imgur.com/fETQyjG.png)
 ### [ Основной вид деятельности ] full-stack web
-* **Python** FastAPI Celery alembic SQLalchemy
+* **Python**
+  - FastAPI Celery alembic SQLalchemy
 * **JavaScript/TypeScript**
-* **React Js** Vite
-* **HTML/SCSS** TailwindCSS pug
-* **SQL** PostgreSQL
+* **React Js**
+  - Vite
+* **HTML/SCSS**
+  - TailwindCSS pug
+* **SQL**
+  - PostgreSQL
 * **Redis**
 * **Docker**
+  - docker compose
 * **Git**
+  - Github
 * **BASH**
+  - bash-script
 ### [ Дополнительно ] minor
 * **C++**
-* **C#** WPF WinForms
+  - STL
+* **C#**
+  - WPF WinForms
 * **vi/vim/neovim**
 
 [GitHub (@idhashida)](https://github.com/idhashida)
