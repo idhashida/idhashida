@@ -1,1 +1,1 @@
-![картинка сломалась =(](https://i.imgur.com/oiotAFi.png)
+![картинка сломалась =(](https://i.imgur.com/fETQyjG.png)
