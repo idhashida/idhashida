@@ -14,4 +14,4 @@
  &emsp;`Github` <br>
 ┗[ **BASH** ] <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GitHub (@idhashida)](https://github.com/idhashida)&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;[Telegram (@idhashida)](https://t.me/idhashida)&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;[Discord (@idhashida)](https://discordapp.com/users/517293553555079171)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[GitHub (@idhashida)](https://github.com/idhashida)&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;[Telegram (@idhashida)](https://t.me/idhashida)&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;[Discord (@idhashida)](https://discordapp.com/users/517293553555079171)
