@@ -1,28 +1,28 @@
 ![картинка сломалась =(](https://i.imgur.com/fETQyjG.png)
 ### full-stack web
-┏━[ **Python** ] <br>
+┏[ **Python** ] <br>
 ┃ FastAPI Celery alembic SQLalchemy <br>
-┣━[ **JavaScript/TypeScript** ] <br>
-┣━[ **React Js** ] <br>
+┣[ **JavaScript/TypeScript** ] <br>
+┣[ **React Js** ] <br>
 ┃ Vite <br>
-┣━[ **HTML/SCSS** ] <br>
+┣[ **HTML/SCSS** ] <br>
 ┃ TailwindCSS pug <br>
-┣━[ **SQL** ] <br>
+┣[ **SQL** ] <br>
 ┃ PostgreSQL <br>
-┣━[ **Redis** ] <br>
-┣━[ **Docker** ] <br>
+┣[ **Redis** ] <br>
+┣[ **Docker** ] <br>
 ┃ docker compose <br>
-┣━[ **Git** ] <br>
+┣[ **Git** ] <br>
 ┃ Github <br>
-┣━[ **BASH** ] <br>
+┣[ **BASH** ] <br>
 ┃ bash-script <br>
-┗━[ ... ] <br>
+┗[ ... ] <br>
 ### minor
-┏━[ **C++** ] <br>
+┏[ **C++** ] <br>
 ┃ STL <br>
-┣━[ **C#** ] <br>
+┣[ **C#** ] <br>
 ┃ WPF WinForms <br>
-┗━[ **vi/vim/neovim** ] <br>
+┗[ **vi/vim/neovim** ] <br>
 
 [GitHub (@idhashida)](https://github.com/idhashida)
 [Telegram (@idhashida)](https://t.me/idhashida)
