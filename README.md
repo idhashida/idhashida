@@ -1,10 +1,10 @@
 ![картинка сломалась =(](https://i.imgur.com/fETQyjG.png)
 ### full-stack web
-┏━[ **Python** ]
-┃ FastAPI Celery alembic SQLalchemy
-┣━[ **JavaScript/TypeScript** ]
-┣━[ **React Js** ]
-┃ Vite
+┏━[ **Python** ] <br>
+┃ FastAPI Celery alembic SQLalchemy <br>
+┣━[ **JavaScript/TypeScript** ] <br>
+┣━[ **React Js** ] <br>
+┃ Vite <br>
 * **HTML/SCSS**
   - TailwindCSS pug
 * **SQL**
