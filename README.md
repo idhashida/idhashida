@@ -2,7 +2,7 @@
 ### full-stack web
 ┌─[ **Python** ] <br>
 │ FastAPI Celery alembic SQLalchemy <br>
-┣**─**[ **JavaScript/TypeScript** ] <br>
+┣━[ **JavaScript/TypeScript** ] <br>
 ├─[ **React Js** ] <br>
 │ Vite <br>
 ├─[ **HTML/SCSS** ] <br>
