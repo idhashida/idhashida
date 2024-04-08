@@ -1,30 +1,19 @@
 ![картинка сломалась =(](https://i.imgur.com/fETQyjG.png)
-### full-stack web
-┌──[ **Python** ]─────────────--┐ <br>
-│  FastAPI Celery alembic SQLalchemy  │ <br>
-└───────────────────────┘ <br>
-┣[ **JavaScript/TypeScript** ] <br>
-┣[ **React Js** ] <br>
-┃ Vite <br>
-┣[ **HTML/SCSS** ] <br>
-┃ TailwindCSS pug <br>
-┣[ **SQL** ] <br>
-┃ PostgreSQL <br>
-┣[ **Redis** ] <br>
-┣[ **Docker** ] <br>
-┃ docker compose <br>
-┣[ **Git** ] <br>
-┃ Github <br>
-┣[ **BASH** ] <br>
-┃ bash-script <br>
-┗[ ... ] <br>
-### minor
-┏[ **C++** ] <br>
-┃ STL <br>
-┣[ **C#** ] <br>
-┃ WPF WinForms <br>
-┗[ **vi/vim/neovim** ] <br>
+### &emsp;full-stack web&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;minor <br>
+┏─[ **Python** ]<br>
+┃&emsp;FastAPI Celery alembic &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;┏─[ **C++** ] <br>
+┣─[ **JavaScript/TypeScript** ]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;┃&emsp;STL <br>
+┣─[ **React Js** ]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;┣─[ **C#** ] <br>
+┃&emsp;Vite&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;┃&emsp;WPF WinForms <br>
+┣─[ **HTML/SCSS** ]&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;┗─[ **vi/vim/neovim** ] <br>
+┃&emsp;TailwindCSS pug <br>
+┣─[ **SQL** ] <br>
+┃&emsp;PostgreSQL SQLAlchemy<br>
+┣─[ **Redis** ] <br>
+┣─[ **Docker** ] <br>
+┃&emsp;docker compose <br>
+┣─[ **Git** ] <br>
+┃&emsp;Github <br>
+┗─[ **BASH** ] <br>
 
-[GitHub (@idhashida)](https://github.com/idhashida)
-[Telegram (@idhashida)](https://t.me/idhashida)
-[Discord (@idhashida)](https://discordapp.com/users/517293553555079171)
+&emsp;&emsp;[GitHub (@idhashida)](https://github.com/idhashida)&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;[Telegram (@idhashida)](https://t.me/idhashida)&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;[Discord (@idhashida)](https://discordapp.com/users/517293553555079171)
