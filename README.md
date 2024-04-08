@@ -1,10 +1,10 @@
 ![картинка сломалась =(](https://i.imgur.com/fETQyjG.png)
-### [ Основной вид деятельности ] full-stack web
-* **Python**
-  - FastAPI Celery alembic SQLalchemy
-* **JavaScript/TypeScript**
-* **React Js**
-  - Vite
+### full-stack web
+┏━[ **Python** ]
+┃ FastAPI Celery alembic SQLalchemy
+┣━[ **JavaScript/TypeScript** ]
+┣━[ **React Js** ]
+┃ Vite
 * **HTML/SCSS**
   - TailwindCSS pug
 * **SQL**
@@ -16,7 +16,7 @@
   - Github
 * **BASH**
   - bash-script
-### [ Дополнительно ] minor
+### minor
 * **C++**
   - STL
 * **C#**
